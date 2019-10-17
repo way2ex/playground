@@ -1,0 +1,17 @@
+{
+  "name": "snippet-generator",
+  "version": "1.0.0",
+  "description": "通过传入的代码生成snippet",
+  "main": "index.js",
+  "bin": {
+    "gen-snippet": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhuqingguang",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^14.2.0"
+  }
+}
