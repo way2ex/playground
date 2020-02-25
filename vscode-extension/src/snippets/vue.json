@@ -1,0 +1,13 @@
+{
+	"Create Formitem in admin": {
+		"prefix": "adminformitem",
+		"body": [
+            "<ks-el-form-item",
+            "    label=\"$1\"$2",
+            ">",
+            "    $0",
+            "</ks-el-form-item>"
+		],
+		"description": "Create formitem in admin"
+	}
+}
